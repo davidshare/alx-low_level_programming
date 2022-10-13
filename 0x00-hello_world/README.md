@@ -10,3 +10,4 @@ Directory containing scripts for starting C
 5. [5-printf.c](./5-printf.c) - A program that outputs a string with a new line character using printf
 6. [6-size.c](./6-size.c) - A program that prints the size of various types on the computer it is compiled and run on
 7. [100-intel](./100-intel) - A script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+8. [101-quote.c](./101-quote.c) - A C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
