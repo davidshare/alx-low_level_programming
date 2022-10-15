@@ -13,3 +13,4 @@
 9. [9-print_comb.c](./9-print_comb.c) - A program that prints all possible combinations of single-digit numbers.
 10. [100-print_comb3.c](./100-print_comb3.c) - A program that prints all possible different combinations of two digits.
 11. [101-print_comb4.c](./101-print_comb4.c) - A program that prints all possible different combinations of three digits.
+12. [102-print_comb5.c](./102-print_comb5.c) - A program that prints all possible combinations of two two-digit numbers.
