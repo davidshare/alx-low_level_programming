@@ -7,4 +7,4 @@
 [3-print_alphabets.c](./3-print_alphabets.c) - A  program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 [4-print_alphabt.c](./4-print_alphabt.c) - A program that prints the alphabet in lowercase except e and q, followed by a new line.
 [5-print_numbers.c](./5-print_numbers.c) - A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
-[6-print_numberz.c](./6-print_numberz.c) - A program that prints the lowercase alphabet in reverse, followed by a new line.
+[6-print_numberz.c](./6-print_numberz.c) - A program that prints all single digit numbers of base 10 starting from 0, followed by a new line using putchar.
