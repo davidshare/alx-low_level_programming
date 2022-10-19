@@ -4,7 +4,7 @@
 /**
  * print_alphabet - prints all lower alphabet characters using _putchar
  * Description: function to print all lower alphabet characters using _putchar
- * Returns: Nothing
+ * Return: Nothing
  */
 
 void print_alphabet(void)
