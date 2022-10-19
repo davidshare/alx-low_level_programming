@@ -3,6 +3,7 @@
 
 /**
  * main - prints putchar followed by a new line
+ * Description: program to print a string usint the function _putchar
  * Returns: 0 on success
  */
 
