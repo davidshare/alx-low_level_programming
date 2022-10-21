@@ -1,18 +1,24 @@
 #include "main.h"
 
 /**
- * print_numbers - Function to print numbers from 0 to 9
+ * print_line - Function to print a line
+ * @n: number of lines to print
  * Return: nothing
  */
 
-void print_numbers(void)
+void print_line(int n)
 {
-	int num = '0';
-
-	while (num <= '9')
+	if (n <= 0)
 	{
-		_putchar(num);
-		num++;
+		_putchar('\n');
+	} else
+	{
+		int i;
+
+		for (i = 1; i <= n; i++)
+		{
+			_putchar('_');
+		}
+		_putchar('\n');
 	}
-	_putchar('\n');
 }
