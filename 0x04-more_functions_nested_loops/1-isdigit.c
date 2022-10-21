@@ -14,6 +14,7 @@ int _isdigit(int c)
 	{
 		if (num == c)
 			return (1);
+		num++;
 	}
 
 	return (0);

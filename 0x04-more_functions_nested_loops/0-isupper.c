@@ -14,6 +14,7 @@ int _isupper(int c)
 	{
 		if (upper == c)
 			return (1);
+		upper++;
 	}
 
 	return (0);
