@@ -1,4 +1,5 @@
 # 0x06. C - More pointers, arrays and strings
 
 ## Files and their descriptions
-0. [0-strcat.c](./0-strcat.c) - Write a function that concatenates two strings.
+0. [0-strcat.c](./0-strcat.c) - A Program that concatenates two strings.
+1. [1-strncat.c](./1-strncat.c) - A program that concatenates two strings.
